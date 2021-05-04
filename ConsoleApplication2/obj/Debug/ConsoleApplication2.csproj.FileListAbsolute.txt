@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Dell Latitude\Desktop\Progra I\prueba2013\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
